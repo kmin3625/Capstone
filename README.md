@@ -47,36 +47,36 @@
  ## 4. 설계
 ### 간트차트
 
-<img src="https://github.com/user-attachments/assets/5f90ffd0-1db3-474d-932a-ab8a88202d26" width="600" height="200"/>
+<img src="https://github.com/user-attachments/assets/b6f48615-e5ec-40c5-b4ff-2a39ba7806c1" width="600" height="200"/>
 
 ### 유저 플로우차트
 
-<img src="https://github.com/user-attachments/assets/6cc3e678-7350-4915-b140-e47724035a0f" width="500" height="500"/>
+<img src="https://github.com/user-attachments/assets/d7daa897-1a28-4867-871b-6921fc0c7328" width="500" height="500"/>
 
 ### 화면 구조 설계
 
-<img src="https://github.com/user-attachments/assets/fa0f2a99-a2ed-428c-8bcd-f4bdf9787b3c" width="500" height="300"/>
+<img src="https://github.com/user-attachments/assets/e3f4d466-45ea-46b2-a85c-ffb39cf8c08b" width="500" height="300"/>
 
 ### 메뉴 구조 설계
 
-<img src="https://github.com/user-attachments/assets/2b7bf5fa-1db2-4d59-8f12-d34c0b259225" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/1dc4b7ab-2ad4-4f69-ae2c-2afb42f0ab51" width="250" height="500"/>
 
 ### DB 설계
 
-<img src="https://github.com/user-attachments/assets/58db94ce-ab48-43a5-8ded-54b088866c20" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/e0ab0ebf-16d7-4316-b9c7-d16d6fbcad1b" width="400" height="800"/>
 
 ### API 명세서
 - /user
 
-<img src="https://github.com/user-attachments/assets/ce61c994-cc89-482d-8feb-b2ef9d3e4259" width="1100" height="700"/>
+<img src="https://github.com/user-attachments/assets/c0f616a6-638a-4da2-b9bd-a193d584d0ac" width="1100" height="700"/>
 
 - /party
 
-<img src="https://github.com/user-attachments/assets/3ae91f00-b06e-42f6-81fa-237657d2b00a" width="1100" height="400"/>
+<img src="https://github.com/user-attachments/assets/4aab4a17-835d-440e-8da4-3ae4237fc058" width="1100" height="400"/>
 
 - /chat
 
-<img src="https://github.com/user-attachments/assets/61d21699-bd7c-4df8-b34f-952b77e7d6ec" width="1100" height="450"/>
+<img src="https://github.com/user-attachments/assets/40fd0c96-c0ac-44d3-bb7e-2780fda982e8" width="1100" height="450"/>
 
 ## 5. 주요 기능
 
@@ -104,10 +104,10 @@
 - 고객센터(문의하기, 자주하는 질문, 공지사항)
 
 ## 6. 앱 실행 영상
-<video src="https://github.com/user-attachments/assets/d6a8a1e8-dac2-4a73-b37f-6624b2dc5f48" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/87066004-e0cc-45dc-b5d1-d6d12dfd8d69" controls width="600"></video>
 
 ## 7. 앱 다운로드 링크
-<img src="https://github.com/user-attachments/assets/26a6ee9d-4e70-4677-bf33-008717987fe3" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/4b3a630e-f5b4-4e50-b8a2-d8f6b856a5de" width="400" height="400"/>
 
 <s>QR 코드를 통해 앱을 사용해보세요.</s>
 
