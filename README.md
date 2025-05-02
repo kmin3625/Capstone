@@ -15,7 +15,7 @@
 
 [<u>7. 앱 다운로드 링크</u>](https://github.com/kmin3625/Capstone/tree/main#7-%EC%95%B1-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%A7%81%ED%81%AC)
 
-[<u>8. 실제로 작업한 Repositories 링크</u>](https://github.com/kmin3625/Capstone/tree/main#7-%EC%95%B1-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%A7%81%ED%81%AC)
+[<u>8. 실제로 작업한 Repositories 링크</u>](https://github.com/kmin3625/Capstone#8-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EC%9E%91%EC%97%85%ED%95%9C-repositories-%EB%A7%81%ED%81%AC)
 
 ## 0. 목표
 ### 2024년 캡스톤 디자인 과목 수강 및 교내 공학경진대회 참여
