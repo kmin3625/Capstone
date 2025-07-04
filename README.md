@@ -15,7 +15,6 @@
 
 [<u>7. 앱 다운로드 링크</u>](https://github.com/kmin3625/Capstone/tree/main#7-%EC%95%B1-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%A7%81%ED%81%AC)
 
-[<u>8. 실제로 작업한 Repositories 링크</u>](https://github.com/kmin3625/Capstone#8-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EC%9E%91%EC%97%85%ED%95%9C-repositories-%EB%A7%81%ED%81%AC)
 
 ## 0. 목표
 ### 2024년 캡스톤 디자인 과목 수강 및 교내 공학경진대회 참여
@@ -111,12 +110,7 @@
 ## 7. 앱 다운로드 링크
 <img src="https://github.com/user-attachments/assets/4b3a630e-f5b4-4e50-b8a2-d8f6b856a5de" width="400" height="400"/>
 
-<s>QR 코드를 통해 앱을 사용해보세요.</s>
-
-현재 서버를 운용하지 않아 앱을 사용할수 없습니다.
-
-## 8. 실제로 작업한 Repositories 링크
-[<u>프론트엔드</u>](https://github.com/kmin3625/Capstone-frontend)
-
-[<u>백엔드</u>](https://github.com/kmin3625/Capstone-backend)
-
+- QR 코드를 통해 앱을 사용해보세요.(한남대 학교 이메일 인증을 통해 사용 가능합니다.)
+- test 계정
+- 1. ID: 20191111 PW: 123456
+- 2. ID: 20192222 PW: 123456
