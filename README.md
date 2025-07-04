@@ -111,6 +111,6 @@
 <img src="https://github.com/user-attachments/assets/4b3a630e-f5b4-4e50-b8a2-d8f6b856a5de" width="400" height="400"/>
 
 - QR 코드를 통해 앱을 사용해보세요.(한남대 학교 이메일 인증을 통해 회원가입)
-- test 계정
-  ID: 20191111 PW: 123456
-  ID: 20192222 PW: 123456
+- Test 계정
+  ( ID: 20191111 PW: 123456, 
+  ID: 20192222 PW: 123456 )
