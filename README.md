@@ -108,9 +108,9 @@
 <video src="https://github.com/user-attachments/assets/87066004-e0cc-45dc-b5d1-d6d12dfd8d69" controls width="600"></video>
 
 ## 7. 앱 다운로드 링크
-<img src="https://github.com/user-attachments/assets/4b3a630e-f5b4-4e50-b8a2-d8f6b856a5de" width="400" height="400"/>
+<img src="Image" src="https://github.com/user-attachments/assets/bbeaa92e-381a-4fde-8f24-17c1379166bd" width="400" height="400"/>
 
 - QR 코드를 통해 앱을 사용해보세요.(한남대 학교 이메일 인증을 통해 회원가입)
 - Test 계정
-  ( ID: 20191111 PW: 123456, 
-  ID: 20192222 PW: 123456 )
+  ( ID: 20190638 PW: 123456, 
+  ID: 20190612 PW: 123456 )
